@@ -16,11 +16,12 @@ header h1 {
   font-weight: 300;
 }
 
-
+.card {
+  display: flex;
+  flex-wrap: wrap;
+}
 
 .card img {
-  height: 400px;
-  width: 400px;
   display: flex;
   margin: auto;
 }
